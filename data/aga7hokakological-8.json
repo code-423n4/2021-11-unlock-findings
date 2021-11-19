@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "aga7hokakological",
+  "address": "0xE41B989ce8cF92E265995A5cCcb2C5c9C2981184",
+  "risk": "G",
+  "title": "unused function parameter name in function __ERC20Permit_init_unchained(string memory name) and __ERC20Permit_init_unsafe(string memory name)",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/8"
+}
