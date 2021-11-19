@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "aga7hokakological",
+  "address": "0xE41B989ce8cF92E265995A5cCcb2C5c9C2981184",
+  "risk": "0",
+  "title": "Order of function is wrong in contracts ERC20PermitUpgradeable, ERC20VotesCompUpgradeable, EIP712Upgradeable",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/9"
+}
