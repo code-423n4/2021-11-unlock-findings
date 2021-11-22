@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "nathaniel",
+  "address": "0xA5BF5254FaAe168231140e139db98F79B65503C8",
+  "risk": "G",
+  "title": "Redundant check of freeTrialLength == 0",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/54"
+}
