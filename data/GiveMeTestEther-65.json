@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "2",
+  "title": "Lock manager can drain the funds of the lock by calling expireAndRefundFor()",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/65"
+}
