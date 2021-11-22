@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "G",
+  "title": "MixinFunds:_initializeMixinFunds move the require statement to the beginning of the function so save gas in the case of a revert",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/60"
+}
