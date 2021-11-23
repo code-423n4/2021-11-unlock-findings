@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "1",
+  "title": "`Unlock.sol#addLockTemplate` doesn't check, if the given version is implemented and can be used to update implementations",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/102"
+}
