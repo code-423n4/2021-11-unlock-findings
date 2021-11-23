@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "hagrid",
+  "address": "0x3A46FeD37cAcd52a6DACc4a49f520AdaD0e51D61",
+  "risk": "0",
+  "title": "Missing `_beforeTokenTransfer` Token Transfer Handle",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/78"
+}
