@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "hagrid",
+  "address": "0x3A46FeD37cAcd52a6DACc4a49f520AdaD0e51D61",
+  "risk": "1",
+  "title": "Confliction on double `initialize` functions front-run `minter` ",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/85"
+}
