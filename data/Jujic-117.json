@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "1",
+  "title": "Setting the admin in initialize initializeProxyAdmin can be frontrun by an attacker",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/117"
+}
