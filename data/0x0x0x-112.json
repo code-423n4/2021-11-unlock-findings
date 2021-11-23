@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "G",
+  "title": "`maxTokens` at `Unlock.sol` does not have to be initialized with 0.",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/112"
+}
