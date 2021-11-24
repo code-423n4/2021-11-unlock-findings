@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "HardlyDifficult",
+  "address": "0xdb92C096bc5Efa8aDB48F05CD601DDdb75228203",
+  "risk": "0",
+  "title": "Reduce rounding error when minting UDT in Unlock",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/131"
+}
