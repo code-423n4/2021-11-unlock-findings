@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: Proxy admin address is stored twice",
+  "issueId": 168,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/168"
+}
