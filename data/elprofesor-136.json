@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "elprofesor",
+  "address": "0xDA3Cf9e341A4C7ecf41070b074EaBDC5D433f159",
+  "risk": "2",
+  "title": "Unlock has incomplete fallback function which may cause loss of funds",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/136"
+}
