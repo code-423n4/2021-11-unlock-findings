@@ -1,0 +1,9 @@
+{
+  "contest": "Unlock Protocol contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "2",
+  "title": "If there is no oracle set for a token used by a lock, the referrer and dev won't receive any udt tokens",
+  "issueId": 219,
+  "issueUrl": "https://github.com/code-423n4/2021-11-unlock-findings/issues/219"
+}
